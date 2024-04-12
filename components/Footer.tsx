@@ -21,7 +21,7 @@ export default function Footer() {
         >
           Bytescale{" "}
         </a>
-        and{" "}
+        
        
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
